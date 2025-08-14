@@ -13,7 +13,7 @@ export default function Home() {
           Created by{" "}
           <a
             className="underline underline-offset-1 hover:translate-y-1"
-            href="https://iostream4YOU.github.io/"
+            href="https://github.com/iostream4YOU"
           >
             @Rishikesh
           </a>
